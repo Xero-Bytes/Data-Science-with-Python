@@ -1,6 +1,5 @@
 # Data-Science-with-Python
-# 🐍 Python Libraries for Data Science
-
+A beginner-friendly repository for learning Python libraries for Data Science, including NumPy for numerical computing, Pandas for data analysis, and Matplotlib for data visualization. Includes practice code, examples, and hands-on learning.
 ### Learn • Analyze • Visualize • Discover
 
 Welcome to **Python Libraries for Data Science** — a hands-on learning repository focused on mastering essential Python libraries for data analysis, numerical computing, and data visualization.
