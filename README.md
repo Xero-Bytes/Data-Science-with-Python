@@ -124,12 +124,6 @@ Through this repository, I aim to:
 
 **Maintained by:** [Xero-Bytes](https://github.com/Xero-Bytes)
 
-This repository reflects my hands-on learning journey in Python programming, data analysis, and data visualization.
-
-I believe in learning by building, experimenting, and continuously improving.
-
----
-
 ### ⭐ Learn by Doing
 
 *Every dataset tells a story. Every visualization reveals a pattern. Every line of code brings us one step closer to understanding data.*
